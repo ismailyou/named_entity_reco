@@ -2,6 +2,10 @@
 Named Entity Recognition 
 
 
+Please give it a try :
+    
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/named_entity_reco/main?filepath=Named_Enitity_Extraction)
+
 ## THE PLAN :
 
 1.   What does NER mean ?
