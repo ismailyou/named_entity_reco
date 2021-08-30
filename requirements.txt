@@ -6,6 +6,5 @@ IPython        == 5.5.0
 requests       == 2.23.0
 matplotlib     == 3.2.2
 sklearn        == 0.0
-re             == 2.2.1
 numpy          == 1.19.5
 spacy          == 2.2.4
