@@ -1,6 +1,9 @@
-# named_entity_reco
-Named Entity Recognition 
+# Named Entity Recognition 
 
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()  
 
 Please give it a try :
 
