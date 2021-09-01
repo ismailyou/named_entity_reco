@@ -49,16 +49,8 @@ You can also launch it!
     - Web Scraping using BeautifulSoup
     - load to the drive
 6.   Basic Named Entity (NE) tagging using NLTK
-    - Word Based
-    - Sentence Based
+        -   Word Based
+        -   Sentence Based
 7.   More powerful package
-    - Stanford NLP NER
-    - Spacy
-
-
-
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)]()
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)]()
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
-
+    -   Stanford NLP NER
+    -   Spacy
