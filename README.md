@@ -40,10 +40,12 @@ In this notebook will be passing over the most common libraries in NLP, from exp
         -   Spacy
 8.  Sequence Model Approach to NER
     -   Inside–outside–beginning (tagging)
-    -   English language
-    -   Arabic & DARIJA
-9.  Training a Neural Network for NER
-    -   Train & test split
+    -   data cleansing & validation
+        -   English language
+        -   Arabic & DARIJA
+    -   Split data into train & test & validation sets
+9.  Bidirectional LSTM 
+    -   model construction
     -   Train The Model
     -   Model Evaluation
 
