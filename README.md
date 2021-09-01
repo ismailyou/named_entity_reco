@@ -42,9 +42,9 @@ Language :
         -   English language
         -   Arabic & DARIJA
 9.  Training a Neural Network for NER
-        -   Train & test split
-        -   Train The Model
-        -   Model Evaluation
+            -   Train & test split
+            -   Train The Model
+            -   Model Evaluation
 
 #### Dependencies :
             pandas         : 1.1.5
