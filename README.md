@@ -7,11 +7,12 @@ An NER machine learning (ML) model might detect the word “Google” in a text 
 
 In this notebook will be passing over from exploiting existing models and libraries NLTK, SPACY, CRFClassifier. and then will get our hand dirty and try to train a NN model to recognize all the entities 
 
-Language :
-    -   English : Almost all the models are work fine 
-    -   Frensh : Most of the models facing alot of errors
-    -   Arabic : Alot of errors 
-    -   Darija : Null in all libraries, but we can fine tune a pre-trained model using ARABIC
+##  Language :
+
+    -      English : Almost all the models are work fine 
+    -       Frensh : Most of the models facing alot of errors
+    -       Arabic : Alot of errors 
+    -       Darija : Null in all libraries, but we can fine tune a pre-trained model using ARABIC
     
     
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
@@ -38,17 +39,13 @@ Language :
         -   Stanford NLP NER
         -   Spacy
 8.  Sequence Model Approach to NER
-
         -   Inside–outside–beginning (tagging)
         -   English language
         -   Arabic & DARIJA
-        
 9.  Training a Neural Network for NER
-
-
-            -   Train & test split
-            -   Train The Model
-            -   Model Evaluation
+    -   Train & test split
+    -   Train The Model
+    -   Model Evaluation
 
 #### Dependencies :
             pandas         : 1.1.5
