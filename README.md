@@ -38,10 +38,14 @@ Language :
         -   Stanford NLP NER
         -   Spacy
 8.  Sequence Model Approach to NER
+
         -   Inside–outside–beginning (tagging)
         -   English language
         -   Arabic & DARIJA
+        
 9.  Training a Neural Network for NER
+
+
             -   Train & test split
             -   Train The Model
             -   Model Evaluation
