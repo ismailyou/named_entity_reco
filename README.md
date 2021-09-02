@@ -6,7 +6,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()
 
-NER Is the task of identifying and categorizing key information (entities) in text. An entity can be any word or series of words that consistently refers to the same thing. Every detected entity is classified into a predetermined category. 
+**NER** Is the task of identifying and categorizing key information (entities) in text. An entity can be any word or series of words that consistently refers to the same thing. Every detected entity is classified into a predetermined category. 
 
 ##### Example, 
 
@@ -45,7 +45,7 @@ In this notebook will be passing over the most common libraries in NLP, from exp
         -   Arabic & DARIJA
     -   Split data into train & test & validation sets
 9.  Bidirectional LSTM 
-    -   model construction
+    -   Build BiLSTM NER Model
     -   Train The Model
     -   Model Evaluation
 
