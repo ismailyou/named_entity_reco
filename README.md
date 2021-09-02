@@ -16,13 +16,12 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 
 ##  Language :
 
-    -      English  : Most models work fine 
-    -      Frensh   : Most of the models facing alot of errors
-    -      Arabic   : Alot of errors 
-    -      Darija   : Null in all libraries, but we can fine tune a pre-trained model using ARABIC
+    -      English  *****
+    -      French   ***
+    -      Arabic   ****
+    -      Darija   **
     
 ## THE PLAN :
-
 
 1.   What does NER mean ?
 2.   How NER works ?
@@ -71,25 +70,18 @@ In this notebook will be passing over the most common libraries in NLP, from exp
             
             
 ### Want to see !! 
-
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ismailyou/named_entity_reco/blob/main/Named_Enitity_Extraction.ipynb)
-
 ### Launch it!
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/named_entity_reco/blob/main/Named_Enitity_Extraction.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/named_entity_reco/main?filepath=Named_Enitity_Extraction)
-
-
 ### Download as PDF
-
 [![download !](https://img.shields.io/badge/Download-here-green)](https://drive.google.com/file/d/1zv4XWed2yxt1KSD5Cxth75Y9OWRWlwOY/view?usp=sharing)
-
         
-### Team
+### Our Team
+    - JADID ISMAIL
+    - LARHCHIM ZAKARIA
     
-    Supervisor    
+    Supervised By :    
         - Pr. ABDELHAK MAHMOUDI
-    Devs
-        - JADID ISMAIL
-        - LARHCHIM ZAKARIA
+        
 
