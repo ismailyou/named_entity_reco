@@ -101,7 +101,7 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/named_entity_reco/blob/main/Named_Enitity_Extraction.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/named_entity_reco/main?filepath=Named_Enitity_Extraction)
 ### Download as PDF
-[![download !](https://img.shields.io/badge/Download-here-green)](https://drive.google.com/file/d/13Xit8qaG60Ut8ZIzxnRvXsRCL2Q5WY5B/view?usp=sharing)
+[![download !](https://img.shields.io/badge/Download-here-green)](https://drive.google.com/file/d/1g_4mQVyx0PMDoPG6MhQlyXmr_Ebs0Oka/view?usp=sharing)
         
 
     Our Team
