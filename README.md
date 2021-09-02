@@ -21,9 +21,6 @@ In this notebook will be passing over the most common libraries in NLP, from exp
     -      Arabic   : Alot of errors 
     -      Darija   : Null in all libraries, but we can fine tune a pre-trained model using ARABIC
     
-
-## THE PLAN :
-
 ## THE PLAN :
 
 
@@ -45,7 +42,6 @@ In this notebook will be passing over the most common libraries in NLP, from exp
       - Bert-base-NER
       - French-camembert-postag-model
       - Tebyan-Arabic-Ner-Model
-
 9.  Bidirectional LSTM 
     -   Inside–outside–beginning (tagging)
     -   data cleansing & validation
@@ -57,8 +53,6 @@ In this notebook will be passing over the most common libraries in NLP, from exp
     -   Model Evaluation
         - Precision, Recall and F1-Score.
     -   How to improve Model Performance
-
-    
     
 #### Dependencies :
 
