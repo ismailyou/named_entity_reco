@@ -6,7 +6,9 @@
 [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()
 
-**NER** Is the task of identifying and categorizing key information (entities) in text. An entity can be any word or series of words that consistently refers to the same thing. Every detected entity is classified into a predetermined category. 
+
+## What is NER ?
+_NER_ Is the task of identifying and categorizing key information (entities) in text. An entity can be any word or series of words that consistently refers to the same thing. Every detected entity is classified into a predetermined category. 
 
 ##### Example, 
 
@@ -16,11 +18,35 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 
 ##  Language :
 
-    -      English  *****
-    -      French   ***
-    -      Arabic   ****
-    -      Darija   **
-    
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: canter;">
+      <th>Language</th>
+      <th>Models Accuracy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ENGLISH</td>
+      <td>* * * * *</td>
+    </tr>
+    <tr>
+      <td>FRENCH</td>
+      <td>* * *</td>
+    </tr>
+    <tr>
+      <td>ARABIC</td>
+      <td>* * *</td>
+    </tr>
+    <tr>
+      <td>DARIJA</td>
+      <td>* * </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 ## THE PLAN :
 
 1.   What does NER mean ?
