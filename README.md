@@ -80,6 +80,10 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/named_entity_reco/main?filepath=Named_Enitity_Extraction)
 
 
+### Download as PDF
+
+[![download !](https://img.shields.io/badge/Download-here-green)](https://drive.google.com/file/d/1zv4XWed2yxt1KSD5Cxth75Y9OWRWlwOY/view?usp=sharing)
+
         
 ### Team
     
