@@ -99,7 +99,7 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ismailyou/named_entity_reco/blob/main/Named_Enitity_Extraction.ipynb)
 ### Launch it!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/named_entity_reco/blob/main/Named_Enitity_Extraction.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/named_entity_reco/main?filepath=Named_Enitity_Extraction)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/ismailyou-named_entity_reco-p0ur3v33/notebooks/Named_Enitity_Extraction.ipynb)
 ### Download as PDF
 [![download !](https://img.shields.io/badge/Download-here-green)](https://drive.google.com/file/d/1g_4mQVyx0PMDoPG6MhQlyXmr_Ebs0Oka/view?usp=sharing)
         
