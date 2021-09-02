@@ -24,6 +24,9 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 
 ## THE PLAN :
 
+## THE PLAN :
+
+
 1.   What does NER mean ?
 2.   How NER works ?
 3.   Why it is important?
@@ -38,18 +41,23 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 7.   More powerful package
         -   Stanford NLP NER
         -   Spacy
-8.  Sequence Model Approach to NER
+8.  The power of transformers
+      - Bert-base-NER
+      - French-camembert-postag-model
+      - Tebyan-Arabic-Ner-Model
+
+9.  Bidirectional LSTM 
     -   Inside–outside–beginning (tagging)
     -   data cleansing & validation
         -   English language
         -   Arabic & DARIJA
-    -   Split data into train & test & validation sets
-9.  Bidirectional LSTM 
+    -   Split data into train & test & validation sets 
     -   Build BiLSTM NER Model
     -   Train The Model
     -   Model Evaluation
-        -   Precision, Recall and F1-Score.
-    -   Build BiLSTM NER Model
+        - Precision, Recall and F1-Score.
+    -   How to improve Model Performance
+
     
     
 #### Dependencies :
