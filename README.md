@@ -48,7 +48,10 @@ In this notebook will be passing over the most common libraries in NLP, from exp
     -   Build BiLSTM NER Model
     -   Train The Model
     -   Model Evaluation
-
+        -   Precision, Recall and F1-Score.
+    -   Build BiLSTM NER Model
+    
+    
 #### Dependencies :
 
             pandas         : 1.1.5
@@ -75,7 +78,12 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/named_entity_reco/main?filepath=Named_Enitity_Extraction)
 
 
+        
 ### Team
-        ISMAIl JADID
-        ZAKARIA LAGHCHIM 
+    
+    Supervisor    
+        - Pr. ABDELHAK MAHMOUDI
+    Devs
+        - JADID ISMAIL
+        - LARHCHIM ZAKARIA
 
