@@ -12,7 +12,7 @@
 
 An NER machine learning (ML) model might detect the word “Google” in a text and classify it as a “Company”.
 
-In this notebook will be passing over the most common libraries in NLP, from exploiting existing models and libraries (`NLTK, SPACY, CRFClassifier`..), then will try to train a NN model using `keras and tensorflow` to recognize all the entities 
+In this notebook will be passing over the most common libraries in NLP, from exploiting existing models and libraries (`NLTK, SPACY, CRFClassifier, HuggingFace Transformers`..), then will try to train a NN model using `keras and tensorflow` to recognize all the entities 
 
 ##  Language :
 
