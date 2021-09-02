@@ -77,10 +77,10 @@ In this notebook will be passing over the most common libraries in NLP, from exp
 ### Download as PDF
 [![download !](https://img.shields.io/badge/Download-here-green)](https://drive.google.com/file/d/1zv4XWed2yxt1KSD5Cxth75Y9OWRWlwOY/view?usp=sharing)
         
-### Our Team
-    - JADID ISMAIL
-    - LARHCHIM ZAKARIA
-    
+
+    Our Team
+        - JADID ISMAIL
+        - LARHCHIM ZAKARIA
     Supervised By :    
         - Pr. ABDELHAK MAHMOUDI
         
